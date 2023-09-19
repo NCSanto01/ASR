@@ -6,7 +6,7 @@
 ![image](https://github.com/NCSanto01/ASR/assets/78079809/e4bb7a3d-1e4d-45da-b969-cfaaea9cdf63)
 
 ### Intento fallido de SSH al Web Server directamente:
-![image](https://github.com/NCSanto01/ASR/assets/78079809/ae8bf1fc-8894-489f-af0b-9b6c9104c4aa)
+![image](https://github.com/NCSanto01/ASR/assets/78079809/56169573-e28b-4cbb-91a1-eeb85109ff5e)
 
 
 ### Conexión con Jump Server:
