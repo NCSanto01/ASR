@@ -5,6 +5,9 @@
 ### Creación de las máquinas:
 ![image](https://github.com/NCSanto01/ASR/assets/78079809/e4bb7a3d-1e4d-45da-b969-cfaaea9cdf63)
 
+### Intento fallido de SSH al Web Server directamente:
+![image](https://github.com/NCSanto01/ASR/assets/78079809/ae8bf1fc-8894-489f-af0b-9b6c9104c4aa)
+
 
 ### Conexión con Jump Server:
 ![image](https://github.com/NCSanto01/ASR/assets/78079809/de94c819-72cc-40ad-906a-3770f0e8a3db)
