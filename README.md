@@ -16,3 +16,11 @@
 ![image](https://github.com/NCSanto01/ASR/assets/78079809/8de2e9af-8664-42b9-b1c5-1a0372cb48dc)
 
 
+
+## Parte 2
+
+### Creación certificado SSL:
+![image](https://github.com/NCSanto01/ASR/assets/78079809/58761af6-bf08-4330-9dc6-d854567ead7e)
+
+
+
