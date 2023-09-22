@@ -7,6 +7,8 @@
 
 ### Conexión desde el equipo al Web Server directamente:
 ![image](https://github.com/NCSanto01/ASR/assets/78079809/d2307ca0-f14f-4f2d-919a-d3b98eadee81)
+![image](https://github.com/NCSanto01/ASR/assets/78079809/e275af99-fffc-4305-8a6f-189de459b147)
+
 
 ### Conexión con Jump Server:
 ![image](https://github.com/NCSanto01/ASR/assets/78079809/de94c819-72cc-40ad-906a-3770f0e8a3db)
