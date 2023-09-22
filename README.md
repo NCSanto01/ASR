@@ -5,9 +5,8 @@
 ### Creación de las máquinas:
 ![image](https://github.com/NCSanto01/ASR/assets/78079809/e4bb7a3d-1e4d-45da-b969-cfaaea9cdf63)
 
-### Intento fallido de SSH al Web Server directamente:
-![image](https://github.com/NCSanto01/ASR/assets/78079809/56169573-e28b-4cbb-91a1-eeb85109ff5e)
-
+### Conexión desde el equipo al Web Server directamente:
+![image](https://github.com/NCSanto01/ASR/assets/78079809/d2307ca0-f14f-4f2d-919a-d3b98eadee81)
 
 ### Conexión con Jump Server:
 ![image](https://github.com/NCSanto01/ASR/assets/78079809/de94c819-72cc-40ad-906a-3770f0e8a3db)
@@ -18,6 +17,8 @@
 
 
 ## Parte 2
+
+### Intento de conexión al Web Server desde el equipo:
 
 ### Creación certificado SSL:
 ![image](https://github.com/NCSanto01/ASR/assets/78079809/58761af6-bf08-4330-9dc6-d854567ead7e)
