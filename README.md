@@ -56,6 +56,11 @@
 ![image](https://github.com/NCSanto01/ASR/assets/78079809/6677e6f1-4d8b-4c78-8580-db0cc8530197)
 
 
+## Parte 4
+
+La principal mejora que se podría realizar sería la creación de un sistema de monitorización y de generación de alertas. Aún con los healthchecks(verificación de estado) del Load Balancer, es difícil detectar dónde ocurren los fallos, por lo que un sistema que cree alertas o registros sería bastante útil.
+
+
 
 
 
