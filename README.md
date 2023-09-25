@@ -25,6 +25,19 @@
 ### Creación certificado SSL:
 ![image](https://github.com/NCSanto01/ASR/assets/78079809/58761af6-bf08-4330-9dc6-d854567ead7e)
 
+### Load Balancer creado con el Health Check funcionando:
+![image](https://github.com/NCSanto01/ASR/assets/78079809/33c375ab-698e-43a9-b5b4-27c50ae765ce)
+
+### Frontend del Load Balancer:
+![image](https://github.com/NCSanto01/ASR/assets/78079809/49510789-8115-4432-9796-9901466fe456)
+
+### Backend del Load Balancer:
+![image](https://github.com/NCSanto01/ASR/assets/78079809/98e191b1-9182-4827-bead-88d269eae6d1)
+
+### Reglas del WAF:
+![image](https://github.com/NCSanto01/ASR/assets/78079809/a819a442-8eec-4500-a9da-8c02b7222eb5)
+
+
 ### Conexión a través del Load Balancer al servidor nginx del backend
 ![image](https://github.com/NCSanto01/ASR/assets/78079809/0d1d88ee-54ae-46e5-9d54-eee1b3df326a)
 
