@@ -39,11 +39,16 @@
 ![image](https://github.com/NCSanto01/ASR/assets/78079809/0d1d88ee-54ae-46e5-9d54-eee1b3df326a)
 
 
-## Parte 2
+## Parte 3
+
+### Nueva regla de Firewall:
+![image](https://github.com/NCSanto01/ASR/assets/78079809/cb25a763-fe19-4079-a70a-dd8cf3b0b3d5)
+
+### Nueva configuración del Backend:
+![image](https://github.com/NCSanto01/ASR/assets/78079809/0dc07791-90be-4fd0-9d00-50a5a3c2ced1)
 
 ### Configuración de Nginx:
 ![image](https://github.com/NCSanto01/ASR/assets/78079809/8691969a-f444-468e-8639-31f2601d363a)
-
 
 ### Puerto 443 con HTTPS activado en el web-server:
 ![image](https://github.com/NCSanto01/ASR/assets/78079809/9685eafa-96e9-4656-85f6-592ecf23ae06)
