@@ -20,8 +20,6 @@
 
 ## Parte 2
 
-### Intento de conexión al Web Server desde el equipo:
-
 ### Creación certificado SSL:
 ![image](https://github.com/NCSanto01/ASR/assets/78079809/58761af6-bf08-4330-9dc6-d854567ead7e)
 
@@ -37,9 +35,23 @@
 ### Reglas del WAF:
 ![image](https://github.com/NCSanto01/ASR/assets/78079809/a819a442-8eec-4500-a9da-8c02b7222eb5)
 
-
 ### Conexión a través del Load Balancer al servidor nginx del backend
 ![image](https://github.com/NCSanto01/ASR/assets/78079809/0d1d88ee-54ae-46e5-9d54-eee1b3df326a)
+
+
+## Parte 2
+
+### Configuración de Nginx:
+![image](https://github.com/NCSanto01/ASR/assets/78079809/8691969a-f444-468e-8639-31f2601d363a)
+
+
+### Puerto 443 con HTTPS activado en el web-server:
+![image](https://github.com/NCSanto01/ASR/assets/78079809/9685eafa-96e9-4656-85f6-592ecf23ae06)
+
+![image](https://github.com/NCSanto01/ASR/assets/78079809/6677e6f1-4d8b-4c78-8580-db0cc8530197)
+
+
+
 
 
 
