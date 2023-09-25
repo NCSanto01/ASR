@@ -25,5 +25,9 @@
 ### Creación certificado SSL:
 ![image](https://github.com/NCSanto01/ASR/assets/78079809/58761af6-bf08-4330-9dc6-d854567ead7e)
 
+### Conexión a través del Load Balancer al servidor nginx del backend
+![image](https://github.com/NCSanto01/ASR/assets/78079809/0d1d88ee-54ae-46e5-9d54-eee1b3df326a)
+
+
 
 
