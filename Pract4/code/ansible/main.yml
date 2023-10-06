@@ -5,9 +5,9 @@
   vars:
       gcp_project: avian-catwalk-398407 #Setear vuestro proyecto
       gcp_cred_kind: serviceaccount
-      gcp_cred_file: "C:\Users\corsi\OneDrive\Escritorio\ICAI\Arquitectura de Sistemas\ASR\Pract4\avian-catwalk-398407-a013fbcdf6e5.json" #Aqui setear con la ruta de vuestra SA
+      gcp_cred_file: "/mnt/c/Users/corsi/OneDrive/Escritorio/ICAI/Arquitectura de Sistemas/ASR/Pract4/avian-catwalk-398407-a013fbcdf6e5.json" #Aqui setear con la ruta de vuestra SA
       region: "europe-west1"
-      zone: "europe-west1-d"
+      zone: "europe-west1-b"
       machine_type: "n1-standard-1"
       image: "projects/centos-cloud/global/images/centos-7-v20230912"
 
@@ -44,7 +44,21 @@
        project: "{{ gcp_project }}"
        service_account_file: "{{ gcp_cred_file }}"
        auth_kind: "{{ gcp_cred_kind }}"
-     register: gce 
+     register: gce
+   - name: Create SSH and HTTP firewall rule
+     gcp_compute_firewall:
+       name: allow-ssh-http
+       project: "{{ gcp_project }}"
+       service_account_file: "{{ gcp_cred_file }}"
+       auth_kind: "{{ gcp_cred_kind }}"
+       allowed:
+         - ip_protocol: tcp
+           ports:
+             - "22"  # Puerto SSH
+             - "80"  # Puerto HTTP
+       source_ranges:
+         - 0.0.0.0/0  # Permitir tráfico desde cualquier IP
+     register: firewall_rule
 
   post_tasks:
     - name: Save host data
