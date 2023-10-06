@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "avian-catwalk-398407",
+  "private_key_id": "a013fbcdf6e57a3c0f2996ecadadebf1bd83389f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCwsZlWEixxoJ9F\nBQ9bjaEH++G17EEsRE1OO1EfyzF3+MzjjSbjJ9ERRaOKKJD1G0qWl5jOJ0wOdk+M\n728c5wmriPjfjfQ7oSnN8nAOWbmPccpwokSpJhIelV6sxxS7ZaVFuX1PGboxiHMv\ngSx8MrOeX+QFglS0MWTaiIquQhonWXvevI6ogpYcXvYx6OIXMILGuLJyU3CWuE3v\nD1HKbp4h8+ndufOdFekJ/F1O8QFOOeqNmZ1F6vpPpwuyszeeGXBan2r9+Vc3OVik\nbaxE9/+cx10+IJmROnwD8+7yhvIrNs8qvO7Bkkb4AFFoXkI1dG1KhwQyMunaMFyx\ngtQ5cpSHAgMBAAECggEAECRWw6ALEwxfUIZgUKG1MuNbdkERnnzU6nnidOWdbNOR\ndZOzwu/PGpACm0C5JsiUqAJMcZTxzqZsqQ2crdwbgYy/Xmj7sCY5M/kwgdcc69Je\nR1ZDsIeWWINBMBv13xLaUO7brZ9w56KKvK3FMHQkqFTOoi7gacp+EgrZpIbMbd4I\n4vpwT04kgw4JxGMNV3JeGU/a8v7Wz08bl3zVh2wP7OfZkDvMSjMfNjjiaaILjqS4\nqq0VaIddZ4GzP4MFGtUKgQAxC2YbUc0rxeoqbEUJionhGX3GQUD5U23sEu4rToJi\nYSWeMOPKkJTedWOoiUwCPRHfMM+pkG/4i+niFG5hhQKBgQDZ+eMXZFhWXnnWz/0I\nav44bjkVVxeoOyQzMWLMkUG7TBhPW9IuSy/Iuk0405UxWqsmOS322QE8IgAs2SQa\ni5UDycrFXkQM9cuYvwcc4qhzcVtWFbIkrIX7X9z/hWocvD08mpBkBFzHz1KNjR+w\n0gT9bZWf8MyR3747wr+Yd+yDCwKBgQDPhCx37Pu275PrFAm4qALvEE2pOkGn7S46\n+CYYZJl0mWSorZ4BQK2lgm1CvyrugEqPw1awGSU1QhB6s4V3dH+XoOY7nZBUoNut\ncw3D+rH8HUBF+3ZihTsNQVRAETU5ZsdO1xErX7gWzlc/2d8Dik7BBZDIYx0ciHrL\ng5XU6pZh9QKBgQCPPNBn/L638tlpub9zGqv39SZ5yYN4P3ToVxmvh/yD0dtfut0B\nItNBunsoTpGJnyU8tvJnde6Dz2wCDKbW8sZ3eNFQpUNeqN6jf1RzPNapFeKJTTSF\nOQHKUBJvrwIt49zxyDf+IYe+nZSIBCbBESHKT4q1UY18hmUB7FXvIU9ARQKBgGBS\nZaG06pHbWrl/L5P6yIHW+3VViSw9N3w/us8PwvsQSFzTWcgTEYcFp1mYCoFyIynf\n7dkHkvHJnISX15e/B4qGMNfzJw9hKxazlOwm7X6sxSy2sBjC5socTNMAKchfIJxD\nz8BmSbisRmto4c9u32dRAgdBmj2oS/czONT/npYRAoGAWh+X7535zhAomSqKcNS0\nJVVtQHx0tAvMrk/hgBvkq85gCcU0y90Edlnb5p4wZKiJ/SwY8gFVJJ3Bl044wTgg\nu+BKmrC9dYwB2hYY+N/cmZOhjQVBf6sZtu1nOgkZaD9plLA68oSyCq2uX3JQs+XH\nY6kq6kDRYET84GXBhigtwGk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "ansible-admin@avian-catwalk-398407.iam.gserviceaccount.com",
+  "client_id": "115380733400102496946",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ansible-admin%40avian-catwalk-398407.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
