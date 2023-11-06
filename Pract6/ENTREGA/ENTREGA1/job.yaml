@@ -1,0 +1,27 @@
+apiVersion: batch/v1
+kind: CronJob
+metadata:
+  name: mycronjob
+spec:
+  schedule: "*/5 * * * *"
+  jobTemplate:
+    spec:
+      parallelism: 5
+      template:
+        spec:
+          containers:
+          - name: artillery
+            image: azch/artillery:latest
+            command:
+            - "artillery"
+            - "run"
+            - "/etc/config/test.yaml"
+            volumeMounts:
+            - name: config-volume
+              mountPath: /etc/config
+          restartPolicy: Never
+          volumes:
+          - name: config-volume
+            configMap:
+              name: artillery-config
+  concurrencyPolicy: Allow
